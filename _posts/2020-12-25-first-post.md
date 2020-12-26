@@ -1,0 +1,14 @@
+---
+title:  "Prologue"
+excerpt: "데이터 사이언스 대학원 합격"
+
+categories:
+  - GSDS
+last_modified_at: 2020-12-26
+---
+
+> SNU Graduate School of Data Science
+
+<img src="https://raw.githubusercontent.com/mepino/mepino.github.io/master/assets/images/profile.jpg" width="450px">
+
+~~척척~~석사 Start

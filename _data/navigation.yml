@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "GSDS"
+    url: /categories/GSDS/
   - title: "Finance"
     url: /categories/Finance/
   - title: "Machine Learning"

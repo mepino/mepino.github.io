@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alphabot, The Financial AI"
+title                    : "Lucy, The Financial AI"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Alphabot"
+name                     : "Lucy"
 description              : "Life of a Financial Data Scientist"
 url                      : "https://mepino.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -276,6 +276,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
