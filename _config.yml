@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Lucy"
 description              : "Life of a Financial Data Scientist"
-url                      : "https://mepino.github.io"
+url                      : "https://raw.githubusercontent.com/mepino/mepino.github.io/master"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : #
